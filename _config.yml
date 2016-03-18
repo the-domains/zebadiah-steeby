@@ -1,0 +1,28 @@
+name: zebadiah-steeby
+favicon: null
+layout_spectrum: 0.18661532271653414
+typography_spectrum: 0.7338199885562062
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.65329091087915
+  lightness: 0.016877674497663975
+  saturation: 0.4579970585182309
+  rhythmicContrast: 0.6103866971097887
+purpose: []
